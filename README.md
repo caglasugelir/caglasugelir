@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+  <span> <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=caglasugelir&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> </span>
+  <span> <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caglasugelir&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6"> </span>
+
+  
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=caglasugelir&theme=darcula&hide_border=true&background=FFFFFF00">
+</div>
